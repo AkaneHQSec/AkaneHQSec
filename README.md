@@ -1,19 +1,13 @@
-### Hi there 👋
+Security awareness has long been a goal of organizations that strive to provide a safe and secure environment for their employees, customers, and those who want to defend precious assets. Understanding the importance of security awareness with examples, and discussions on focus groups and surveys that are utilized for better communication are of utmost necessity. The practice of security awareness operates best when a reasonable plan is put together with policies and procedures that support a comprehensive team concept. Security awareness provides a framework of established policies and procedures that the participants employ by reporting unsafe conditions, suspicious activity, and noticing general safety breaches. To be effective, the security department instills the security awareness among members from all layers of the organization as well as external partners through orientation sessions, training, security updates via newsletters, e-mails, and informative signage. Short surveys on security awareness are included in the e-mails, the newsletters, and the webcasts, and can be evaluated to identify the areas of the security awareness program to be adjusted to keep it on track. The “lessons learned” examples of security awareness help employees and partners understand the importance of strong security personally to them, as well as to the success of the organization.
+We could very well try to introduce you to one of such vulnerability which had taken the world by storm in Dec 2021. This vulnerability allows malicious attackers to execute code remotely on any targeted computer. This was mainly due to the vast usage of an open source software, a logging library for Java. The vulnerability being present in a logging library not only had widespread implications but had numerous injection points as the the payload could follow in from truly anywhere - be it input fields, headers, IPs, geographic data, API calls etc. Due to this nature of the vulnerability and the logging library supporting a huge number of protocols, the IT words was driven into a frenzy on discovery of this vulnerability.
+This is why implementing cyber security awareness training among employees is highly important for every organization. Just by strengthening the weakest link in the cyber security chain, an organization can mitigate up to 90% of cyber risks. Moreover, the following benefits of security awareness training will definitely make you understand the importance of the purpose:
 
-<!--
-**AkaneHQSec/AkaneHQSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Cyber Resilient Working Environment the security awareness training program develops a sense of responsibility within employees to work in a security-focused environment. When you offer training to employees, they automatically understand the importance of the topic being taught and learn how it has to be practiced in the future. Regular training helps in instilling better habits of staying cyber aware and secure.
 
-Here are some ideas to get you started:
+2. Prevent Breaches and Cyber attacks without this security awareness training, employees wouldn’t have stayed updated on cyber attacks and malicious activities of hackers. So when employees learn how to recognize and avoid these attacks, they start using preventive measures in order to keep the organization’s network secure and maintain the workflow.
+ 
+3. Robust Technical Defenses Technological security defenses play a valuable role in safeguarding organizations from the reach of cybercriminals. But these defenses require manual labor to operate, update and upgrade security software which is only possible with proper security awareness training. These technological defenses become useless if they are being operated or updated without full knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4. Proactive Employees One of the biggest benefits of corporate security awareness training is to help employees become proactive and confident about working around data, without causing any incident. After all, human error is the leading cause of cyber attacks and data breaches. With effective training, employees become empowered to work in a cyber-resilient environment, reducing the chance of human error.
 
-This vulnerability allows malicious attackers to execute code remotely on any targeted computer.  :
-This is an open source software, a logging library for Java, is widely used by businesses and web portals. Earlier this month, this open source software was in the news for its vulnerabilities.
+5. Gets Everyone in Sync Every security practice must be followed in sync, keeping every employee on the same page in the organization. Without official training on cyber security, all different departments in the organization might be practicing different principles, keeping data on the verge of risk.
